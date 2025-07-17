@@ -28,38 +28,6 @@ EmotionDetection/
 ├── requirements.txt          # Python dependencies
 ├── Procfile                  # For deployment (Render)
 └── README.md                 # Project documentation
-🛠️ Technologies Used
-Python
-
-Flask
-
-Scikit-learn / NLP
-
-HTML, CSS (Jinja2 templates)
-
-Render (for deployment)
-
-🧪 How to Run Locally
-Clone the repo
-
-bash
-Copy
-Edit
-git clone https://github.com/your-username/EmotionDetection.git
-cd EmotionDetection
-Install dependencies
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run the server
-
-bash
-Copy
-Edit
-python server.py
-Open your browser and go to http://127.0.0.1:5000
 
 🚀 Deployment
 This app is ready for deployment on platforms like Render. Just connect your GitHub repo and make sure your Procfile and requirements.txt are set up properly.
