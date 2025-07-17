@@ -1,5 +1,3 @@
-:
-
 🎭 EmotionDetection — Flask Emotion Detection App
 A simple AI-powered web application that detects emotions from text input using machine learning and Flask.
 
